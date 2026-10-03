@@ -1,0 +1,12 @@
+<script>
+    function readChapter() {
+        const text = document.querySelector("main").innerText;
+        const speech = new SpeechSynthesisUtterance(text);
+
+        speech.rate = 1;
+        speech.pitch = 1;
+
+        speechSynthesis.cancel();
+        speechSynthesis.speak(speech);
+    }
+    </script>

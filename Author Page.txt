@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Author Page</title>
+        <link rel="stylesheet" href="Css.css">
+    </head>
+    <body>
+        <main>
+            <a href="index.html">Title Page</a>
+            <h1>Author Page</h1>
+            <h2>Author</h2>
+
+<p>Chayzan Lewis</p>  
+
+<p>I make psychological horror :D</p>
+
+<h2>About me</h2>
+
+<p>
+I’m Chayzan, and I write supernatural psychological horror. My worlds are dark and unsettling, but my characters are bright enough to feel alive. I draw inspiration from anime like Chainsaw Man, Jujutsu Kaisen, and Demon Slayer. These inspirations also influence a lot of action in my storytelling.
+</p>
+
+<h2>More About me</h2>
+
+<p>
+I only started writing recently, which still surprises me, considering I used to hate reading and writing two years ago. But once I realized stories didn’t have to be boring, the story finally started writing itself. My goals are straightforward: give people something nice to read, hope they learn something, and then hopefully pay rent.
+</p>
+
+<h2>Insignia — 1-12 volumes</h2>
+
+<p>
+A world where losing your humanity transforms you into a violent creature that feeds on human suffering. These monsters grow stronger by consuming the flesh of tormented victims. Most humans die when they encounter them, but a rare few awaken powers known as Insignias. These abilities are symbolic of their users and express who they are as people. The HSA (Hunter Society Association) often recruits these people to help fight more of these monsters. Every character is made to feel real, and I make sure none of them feel stupid or fake.
+</p>
+
+<h2>Rem — 1 volume</h2>
+
+<p>
+In this world, dreams feel unreachable, yet nightmares are real. The people of this world experience dreams that are completely real every single night. Many unlucky people experience nightmares — dreams that can kill them and seep into reality. The lucky few may awaken a power called Rem. These abilities tie into a person's internal world, flaws, and psychology. People known as Dream Divers enter people's dreams to save them from death and prevent further casualties.
+</p>
+
+<h2>Release Plans</h2>
+
+<p>
+Insignia — currently in the publishing process; official release date of volume one TBD.
+</p>
+
+<p>
+Rem — being written as a later project.
+</p>
+
+<h2>Social Links</h2>
+
+<p>
+<a href = https://www.tiktok.com/@scribe_56>TikTok</a>
+</p>
+
+<p>
+<a href = https://www.youtube.com/@Scribes_56>YouTube</a>
+</p>
+
+<p>
+<a href =  https://www.instagram.com/scribes_56>Instagram</a>
+</p>
+
+<p>
+<a href = https://www.facebook.com/share/p/1EnH53ydr8/>Facebook</a>
+</p>
+
+<p>
+Follow me on my socials for updates on current and future projects.
+</p>
+        </main>
+    </body>
+</html>
